@@ -2,6 +2,7 @@
 Welcome to my page.🤯
 
 Let's chase the sun together.🌞
+<--
 ## About Me
 I'm a passionate software developer with a keen interest in web development, open-source projects, and learning new technologies. I enjoy solving complex problems and building innovative solutions.
 
@@ -27,6 +28,7 @@ An e-commerce platform built with React and Node.js, featuring user authenticati
 
 ### [Project 3: Blog API](https://github.com/Kennems/blog-api)
 A RESTful API for a blogging platform built with Django and Django REST Framework.
+-->
 
 ## 📈 GitHub Stats
 ![Kennems's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kennems&show_icons=true&theme=radical)
